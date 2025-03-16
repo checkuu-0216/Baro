@@ -151,6 +151,8 @@
 
 ## ✅ 테스트 코드 작성
 
+![스크린샷 2025-03-16 160449](https://github.com/user-attachments/assets/f5dd6356-d53c-4b64-abd6-c7c6ee6aaad2)
+
 
 <br>
 
@@ -166,9 +168,23 @@
 
 <br>
 
-## ✅ 배포
+## 🔲 배포
+
+### ⏳ EC2 인스턴스 생성 후 build 하기
+
+<br>
+
+![image](https://github.com/user-attachments/assets/ca5cfc0c-b0e8-4e97-89ed-567b1fbf94f4)
+
+<br>
+
+#### 계속해서 build가 실패하여 배포를 성공적으로 마치지는 못했다.
 
 
+![스크린샷 2025-03-16 191346](https://github.com/user-attachments/assets/f62475b4-633a-4327-a19b-9e3ab212365a)
+
+
+![image](https://github.com/user-attachments/assets/e2a55229-9729-47ac-a585-499ee7986312)
 
 
 
